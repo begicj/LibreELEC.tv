@@ -35,8 +35,8 @@
   # Kernel to use. values can be:
   # default:  default mainline kernel
     LINUX="custom"
-    KERNEL_VERSION="263a24f"
-    KERNEL_URL="https://github.com/kszaq/linux/archive/$KERNEL_VERSION.tar.gz"
+    KERNEL_VERSION="e2756bb"
+    KERNEL_URL="https://github.com/begicj/linux/archive/$KERNEL_VERSION.tar.gz"
 
 ################################################################################
 # setup build defaults
